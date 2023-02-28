@@ -5,17 +5,17 @@
       "@protected": true,
       "id": "@id",
       "type": "@type",
-      "ProofOfDaoLongevity": {
-        "@id": "https://raw.githubusercontent.com/0xPolygonID/tutorial-examples/main/credential-schema/proof-of-dao-longevity.jsonld#ProofOfDaoLongevity",
+      "proofOfJerk": {
+        "@id": "https://github.com/bnjmndn/polyIDtest/blob/459afaf42ada13117892baa4528e57da0bc4e952/proofOfJerk.jsonld",
         "@context": {
           "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://github.com/0xPolygonID/tutorial-examples/blob/main/credential-schema/proof-of-dao-longevity-vocab.md#",
+          "vocab": "https://github.com/bnjmndn/polyIDtest/blob/459afaf42ada13117892baa4528e57da0bc4e952/jerkDescription",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "entryDate": {
-            "@id": "vocab:entryDate",
+          "isJerk": {
+            "@id": "vocab:isJerk",
             "@type": "xsd:integer"
           }
         }
