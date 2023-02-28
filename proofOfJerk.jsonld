@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://github.com/bnjmndn/polyIDtest/blob/459afaf42ada13117892baa4528e57da0bc4e952/proofOfJerk.jsonld",
-        "jsonSchema": "https://github.com/bnjmndn/polyIDtest/blob/459afaf42ada13117892baa4528e57da0bc4e952/proofOfJerk.json"
+        "jsonLdContext": "https://github.com/bnjmndn/polyIDtest/blob/8f2d5f9aecb607b5920217fe4fb324f6a59a4d41/proofOfJerk.jsonld",
+        "jsonSchema": "https://github.com/bnjmndn/polyIDtest/blob/8f2d5f9aecb607b5920217fe4fb324f6a59a4d41/proofOfJerk.json"
       }
     },
     "required": [
