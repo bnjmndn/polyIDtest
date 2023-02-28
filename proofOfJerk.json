@@ -6,13 +6,13 @@
       "id": "@id",
       "type": "@type",
       "proofOfJerk": {
-        "@id": "https://raw.githubusercontent.com/bnjmndn/polyIDtest/main/proofOfJerk.json?token=GHSAT0AAAAAAB7MADGMUKE7ONSWXWHDKX72Y756EOA",
+        "@id": "https://raw.githubusercontent.com/bnjmndn/polyIDtest/main/proofOfJerk.json",
         "@context": {
           "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://raw.githubusercontent.com/bnjmndn/polyIDtest/main/jerkDescription?token=GHSAT0AAAAAAB7MADGM6QUKV4FUJDWNH7O6Y756EXA",
+          "vocab": "https://raw.githubusercontent.com/bnjmndn/polyIDtest/main/jerkDescription",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "isJerk": {
             "@id": "vocab:isJerk",
