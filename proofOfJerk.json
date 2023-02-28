@@ -12,7 +12,7 @@
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://github.com/bnjmndn/polyIDtest/blob/main/jerkDescription.md",
+          "vocab": "https://github.com/bnjmndn/polyIDtest/blob/main/jerkDescription",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "isJerk": {
             "@id": "vocab:isJerk",
