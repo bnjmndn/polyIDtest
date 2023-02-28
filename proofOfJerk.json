@@ -6,7 +6,7 @@
       "id": "@id",
       "type": "@type",
       "ProofOfJerk": {
-        "@id": "https://raw.githubusercontent.com/bnjmndn/polyIDtest/main/proofOfJerk.jsonld#ProofOfJerk",
+        "@id": "https://raw.githubusercontent.com/bnjmndn/polyIDtest/main/proofOfJerk.jsonld",
         "@context": {
           "@version": 1.1,
           "@protected": true,
